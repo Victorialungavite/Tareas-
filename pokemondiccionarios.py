@@ -46,7 +46,6 @@ print("El diccionario guardo estos ataques:")
 print (ataquesjugador)
 if PS_oponente <=0:
     print ("Felicidades, has ganado")
-
 else:
     print ("lo siento, has perdido")  
 
